@@ -1,6 +1,6 @@
 # Syncfusion JavaScript Pivot Table Sample
 
-This repository showcases how to create and customize a JavaScript [Pivot Table](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started) using Syncfusion, helping developers improve data presentation and manipulation in web projects.
+This repository contains a basic example of using the Syncfusion JavaScript [Pivot Table](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started) with a simple data source.
 
 ## Prerequisites
 
